@@ -130,3 +130,5 @@ dmypy.json
 
 # Data
 *.json
+cvModel_gbt.model/
+cvModel_lr.model/
